@@ -1,0 +1,39 @@
+.wf-card-1{
+    background: #FDAB76;
+box-shadow: -8px 12px 32px rgba(250, 84, 28, 0.2);
+border-radius: 16px;
+padding:10px;
+gap: 24px;
+
+
+}
+
+.wf-card-2{
+    background: #77F0ED;
+    box-shadow: -8px 12px 32px rgba(0, 191, 216, 0.2);
+border-radius: 16px;
+padding:10px;
+gap: 24px;
+
+}
+
+.wf-card-3{
+    background: #FFE475;
+box-shadow: -8px 12px 32px rgba(223, 176, 22, 0.2);
+border-radius: 16px;
+padding:10px;
+gap: 24px;
+
+}
+
+.wf-card-4{
+    background: #69F290;
+    box-shadow: -8px 12px 32px rgba(12, 214, 110, 0.2);
+border-radius: 16px;
+padding:10px;
+gap: 24px;
+
+}
+
+
+

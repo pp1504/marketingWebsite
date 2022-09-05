@@ -1,0 +1,30 @@
+.cs-box-1{
+  box-shadow: -24px 24px 72px -8px rgba(145, 158, 171, 0.24);
+border-radius: 16px;
+}
+
+.overlay{
+    position: absolute;
+    top: 20%;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) -1.23%, #000000 50%);
+    color: #f1f1f1;
+    border-radius: 0 0 15px 15px;
+    width: 76.8%;
+    height: 25%;
+    padding: 20px;
+}
+
+.overlay-next{
+    position: absolute;
+    top: 20%;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) -1.53%, #000000 80%);
+    color: #f1f1f1;
+    border-radius: 0 0 15px 15px;
+    width: 76.5%;
+    height: 25%;
+    padding: 20px;
+}
+
+

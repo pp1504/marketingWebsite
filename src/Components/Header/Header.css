@@ -1,0 +1,14 @@
+.h-element{
+    font-size: 0.9rem;
+    font-family: Verdana;
+    font-style: normal;
+    cursor: pointer;
+    font-weight:600;
+}
+
+.h-element:hover{
+    color:#FA541C;
+}
+
+
+
